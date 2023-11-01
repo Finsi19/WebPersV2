@@ -40,7 +40,7 @@ const HomeContent = () => {
         variants={containerHomeVariants}
         className="flex flex-col items-center"
       >
-        <h2 className="text-primary font-extrabold xl:text-5xl md:text-4xl text-xl">Vicky Herdiansyah Adri.</h2>
+        <h2 className="text-primary font-extrabold xl:text-5xl md:text-4xl text-xl">Alfino Raditya.</h2>
         <div className="relative -z-10">
           <img
             src={shapeHeader}
@@ -50,7 +50,7 @@ const HomeContent = () => {
             className="absolute -z-10 md:bottom-0 bottom-1.5 xl:w-auto md:w-80 w-28"
           />
           <h1 className="mx-2 text-transparent bg-clip-text bg-gradient-to-r from-[#1487B9] to-[#1FC2F0] xl:text-[82px] md:text-[70px] text-[32px] font-bold">
-            Frontend Engineer
+            Frontend Dev
           </h1>
         </div>
       </motion.div>
@@ -60,7 +60,7 @@ const HomeContent = () => {
         variants={descriptionHomeVariants}
         className="md:text-[24px] max-w-3xl text-center text-slate-500 md:leading-10 leading-6"
       >
-        <span className="font-semibold">2+ years of experience in front-end development,</span> using React.js for
+        <span className="font-semibold">Hi! My Name Is Alfino Raditya | Frontend Devloper,</span> using React.js for
         developing a website and web applications.
       </motion.p>
     </>

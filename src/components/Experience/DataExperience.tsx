@@ -54,7 +54,7 @@ const DataExperience: React.FC = () => {
           pattern,
           name,
           description,
-          date,
+          // date,
           position,
           responsibilites,
           first_color,
@@ -102,7 +102,7 @@ const DataExperience: React.FC = () => {
                     >
                       {description}
                     </p>
-                    <p className="text-lg font-medium mt-2.5">{date}</p>
+                    {/* <p className="text-lg font-medium mt-2.5">{date}</p> */}
                   </div>
                   <div className="md:hidden flex justify-start">
                     <p
